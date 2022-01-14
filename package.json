@@ -1,0 +1,28 @@
+{
+  "name": "tietiesells",
+  "version": "0.0.1",
+  "description": "一个有趣的店铺",
+  "main": "app.js",
+  "dependencies": {
+    "@vant/weapp": "^1.6.8",
+    "apifm-wxapi": "^3.36.0",
+    "wxa-plugin-canvas": "^1.1.12",
+    "wxbarcode": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wimilee/tietieSells.git"
+  },
+  "keywords": [
+    "情侣",
+    "店铺"
+  ],
+  "author": "wimilee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wimilee/tietieSells.git/issues"
+  },
+  "homepage": "https://github.com/wimilee/tietieSells.git#readme"
+}
