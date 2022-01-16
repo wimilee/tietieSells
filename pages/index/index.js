@@ -1,5 +1,6 @@
 // pages/index/index.js
-const WXAPI = require("apifm-wxapi")
+const WXAPI = require('apifm-wxapi')
+const CONFIG = require('../../config.js')
 var app = getApp();
 
 Page({

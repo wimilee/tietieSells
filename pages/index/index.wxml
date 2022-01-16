@@ -7,4 +7,5 @@ indicator-dots="true">
 <view class="btn">
   <button wx:if="{{swiperCurrent+1==swiperMaxNumber}}" type="default" size="mini" bindtap="goMainPage">进入贴贴</button>
 </view>
+<view><p>首页显示</p></view>
 

@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "一个有趣的店铺",
   "main": "app.js",
+  "miniprogram": "dist",
   "dependencies": {
     "@vant/weapp": "^1.6.8",
     "apifm-wxapi": "^3.36.0",
